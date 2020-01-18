@@ -1,5 +1,5 @@
 # HTML5 Local Video Player Example
-A local video player inside thr browser.
+A local video player inside the browser.
 
 ## Steps
 1. Open the index.html file.
